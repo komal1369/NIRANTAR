@@ -39,14 +39,14 @@ It is designed to help emergency response teams understand incident severity, pr
 
 ## Technology Stack
 
-| Component | Technology |
-| Frontend | React.js, JavaScript, CSS |
-| Frontend Tooling | Vite |
-| Backend | Python, FastAPI |
-| AI Integration | Google Gemini API |
-| Data Validation | Pydantic |
-| Environment Configuration | Python dotenv |
-| API Communication | REST API |
+Layer :	Technology
+Frontend  :	React.js, JavaScript, CSS
+Backend  : Python, FastAPI
+AI / LLM  :	Google Gemini API
+API Architecture :	RESTful APIs
+Development Tooling :	Vite, npm
+Data Validation	 :  Pydantic
+Configuration	:  Python dotenv
 
 ## System Architecture
 
